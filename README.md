@@ -5,6 +5,8 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Table of Contents
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ajax27/udemy-react-newsapp.svg)](https://greenkeeper.io/)
+
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
 - [Folder Structure](#folder-structure)
